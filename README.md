@@ -1,4 +1,4 @@
-# Diet foto analysis
+# Diet photo analysis
 ![th-4087294436](https://github.com/HeG0k/MyStartup/assets/145152513/8ccf3730-5eae-49d3-ac3f-e4d715553140)
 
 
